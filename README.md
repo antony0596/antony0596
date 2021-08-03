@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning programming in general. So far I have learned HTML, CSS, JavaScript, and C#. 
 - 📫 Twitter @TonyFWeb
 - 📫 Instagram @tonyfweb
-- 
 
 <!---
 antony0596/antony0596 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
