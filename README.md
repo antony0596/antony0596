@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antony0596
-- 👀 I’m currently interested in finding a paid internship or entry level job as a developer.
-- 🌱 I’m currently learning programming in general. So far I have learned HTML, CSS, JavaScript, and C#. 
+- 👀 Not really looking for anything at the moment. I am just trying to learn as much as I can.
+- 🌱 I’m currently learning programming in general. I have some experience with Python, C#, JavasScript, HTML, and CSS. 
 - 📫 Twitter @TonyFWeb
 - 📫 Instagram @tonyfweb
 
